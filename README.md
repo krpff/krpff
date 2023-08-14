@@ -11,14 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 min               ████████████████████████░   97.72 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
