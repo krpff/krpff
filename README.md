@@ -11,13 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
