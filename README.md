@@ -11,14 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              ██████████████░░░░░░░░░░░   57.50 % 
-GitIgnore file           2 mins              ███████████░░░░░░░░░░░░░░   42.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
