@@ -11,13 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Warp                     43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
