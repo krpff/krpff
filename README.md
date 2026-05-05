@@ -11,13 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    3 mins              █████████████████████████   100.00 % 
+Other                    2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Warp                     3 mins              █████████████████████████   100.00 % 
+Warp                     2 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
