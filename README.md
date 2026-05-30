@@ -7,5 +7,20 @@
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    38 mins             ██████████████████░░░░░░░   70.69 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+SQL                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+
+🔥 Editors: 
+Warp                     54 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      54 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
