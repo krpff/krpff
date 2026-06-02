@@ -11,15 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    38 mins             ██████████████████░░░░░░░   70.69 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-SQL                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Warp                     54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
