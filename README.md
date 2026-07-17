@@ -11,20 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    17 mins             ██████████████░░░░░░░░░░░   57.15 % 
-Python                   11 mins             ██████████░░░░░░░░░░░░░░░   38.20 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Warp                     18 mins             ███████████████░░░░░░░░░░   61.78 % 
-VS Code                  11 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             ███████████████░░░░░░░░░░   61.81 % 
-Windows                  11 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+No Activity Tracked This Week
 ```
 
 
