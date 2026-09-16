@@ -11,13 +11,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    10 mins             ███████████████░░░░░░░░░░   61.16 % 
+XML                      6 mins              ██████████░░░░░░░░░░░░░░░   38.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Warp                     16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
