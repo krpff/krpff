@@ -11,19 +11,40 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    51 mins             █████████████░░░░░░░░░░░░   53.82 % 
+Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
+C#                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 33 mins        ████████████████████████░   96.78 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 35 mins (98.6%)
+
+✍️ 896 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,219,019 Input Tokens, 93,241 Output Tokens
+
+💵 $64.90 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 18 AI Prompts
+
+GPT                      896 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,146 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
