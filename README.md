@@ -38,13 +38,13 @@ Mac                      36 mins             ███████████�
 
 💵 $18.07 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
 GPT                      1,856 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 720 characters per prompt
+📄 Detailed Prompter — average 600 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
