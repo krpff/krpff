@@ -13,40 +13,19 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             ████████████░░░░░░░░░░░░░   47.12 % 
-C#                       17 mins             ████████████░░░░░░░░░░░░░   46.81 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             28 mins             ███████████████████░░░░░░   77.20 % 
-VS Code                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (78.0%)
-
-✍️ 1,587 lines written by AI, 1 lines written by hand (99.94% AI-written)
-
-🔤 274,484 Input Tokens, 79,546 Output Tokens
-
-💵 $18.07 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 4 AI Prompts
-
-GPT                      1,856 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
